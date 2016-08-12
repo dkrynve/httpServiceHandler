@@ -13,8 +13,8 @@ public partial class _Default : System.Web.UI.Page
     #region "Class Members"
     string nameOfService = "Spooler";
     string domainName = "TURNER";
-    string userName = "dkrynveniuk";
-    string userPassword = "Lord0516";
+    string userName = "USER";
+    string userPassword = "PASS";
     #endregion
 
     protected void Page_Load(object sender, EventArgs e)
